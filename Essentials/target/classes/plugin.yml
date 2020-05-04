@@ -1,0 +1,11 @@
+name: Essentials
+version: 1.0-SNAPSHOT
+main: me.niedoogarniecia.essentials.Essentials
+api-version: 1.13
+authors: [Niedoogarniecia]
+commands:
+  gamemode:
+    aliases: gm
+    usage: §cIncorrect usage. Try /<command> [gamemode]
+    description: use it to change your gamemode
+
